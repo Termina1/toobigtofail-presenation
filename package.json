@@ -1,0 +1,16 @@
+{
+  "name": "toobigtofail",
+  "version": "1.0.0",
+  "description": "«Чем выше заберешься, тем больнее падать»",
+  "main": "index.js",
+  "dependencies": {
+    "react-shower": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-shower",
+    "build": "react-shower build"
+  },
+  "author": "Вячеслав Шебанов",
+  "license": "CC-BY-3.0"
+}
