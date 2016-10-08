@@ -266,7 +266,7 @@ export default () =>
         <ul>
           <li>Помните, что люди ошибаются гораздо чаще программ</li>
           <li>Обложитесь статистиками и мониторингами</li>
-          <li>Используйте любый индикаторы проблем, даже самые нестандартные</li>
+          <li>Используйте любые индикаторы проблем, даже самые нестандартные</li>
           <li>Быстрый роллбэк</li>
           <li>Эффективная коммуникация</li>
           <li>Не паникуйте</li>
@@ -278,6 +278,7 @@ export default () =>
           <li>VK: <a href="https://vk.com/bysould">245216</a></li>
           <li>Твиттер: <a href="https://twitter.com/thought_sync">@thought_sync</a></li>
           <li>Github: <a href="https://github.com/Termina1">@Termina1</a></li>
+          <li>Презентация: <a href="https://termina1.github.io/toobigtofail-presentation/p/">https://termina1.github.io/toobigtofail-presentation/p/</a></li>
         </ul>
       </Slide>
     </Deck>
